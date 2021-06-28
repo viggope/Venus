@@ -3,6 +3,6 @@
 ### Why Venus?
 #### Because its the best bot ever!
 ### Current update:
-#### Admin update
+#### Summer update
 ### Next update:
 #### Trials of Venus
